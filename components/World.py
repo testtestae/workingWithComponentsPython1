@@ -1,0 +1,1 @@
+print("School is bad")
